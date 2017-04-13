@@ -1,0 +1,4 @@
+1. This application first feature can merge 2 files into 1 file
+2. in the second feature, you can find first word in the file with as many as parameter do you want
+3. in the third feature, you can find out the number of characters inside a file
+you can run this app by execute App and you can test this file by execute AppTest
